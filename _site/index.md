@@ -6,7 +6,6 @@ tags:
   - welcome
   - info
 ---
-<h2 class="mainHeading">Main Content</h2>
 <section class="myimg">
     <figure><img src="/images/me.jpg" alt="My image" class="img-responsive"> <figcaption class="caption">Loverta Brown</figcaption></figure>
 </section>

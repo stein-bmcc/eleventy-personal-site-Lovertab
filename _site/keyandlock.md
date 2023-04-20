@@ -5,7 +5,6 @@ tags:
   - video
   - key and lock
 ---
-<h2 class="mainHeading">Main Content</h2>
 <article class="program-card">
   <video width="320" height="240" controls>
   <source src="/keyandlockfinalproject.mp4" type="video/mp4">

@@ -4,7 +4,6 @@ tags:
   - website
   - one piece
 ---
-<h2 class="mainHeading">Main Content</h2>
 <article class="program-card">
     <img src="/images/onepiece.png" alt="One Piece" class="img-responsive">
     <img src="/images/onepiece1.png" alt="One Piece" class="img-responsive">

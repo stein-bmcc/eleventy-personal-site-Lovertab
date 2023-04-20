@@ -5,9 +5,8 @@ tags:
   - quote
   -eating
 ---
-<h2 class="mainHeading">Main Content</h2>
 <article class="program-card">
-<img src="/images/social media.png" alt="Eating Habits" class="img-responsive">
+<img src="/images/social media.png" alt="Eating Habits" class="img-responsive-specific">
   <div class="card-body">
   <h4>Eating Habits</h4>
   <p>This poster was created in Adobe Illustrator.</p>
