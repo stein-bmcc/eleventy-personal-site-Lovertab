@@ -8,7 +8,7 @@ tags:
 <h2 class="mainHeading">Main Content</h2>
  <section class="myinfo">
     <h1>Resume</h1>
-    <a href="resume.html">Resume</a>
+    <a href="/resume.html">Resume</a>
 </section>
 <section class="myinfo">
     <h1>LinkedIn</h1>
