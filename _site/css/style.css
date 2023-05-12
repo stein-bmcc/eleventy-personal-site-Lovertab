@@ -71,9 +71,11 @@ img,video{
    You can change this comment and add in your own CSS below
    ========================================================================== 
 */
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 </style>
+
    * {
       margin:0;
       padding:0;
@@ -252,10 +254,10 @@ to {opacity: 1}
 main{
  display: grid;
  grid-template-columns: 1fr 1fr 1fr;
- /*grid-column-gap: 1em;*/
- grid-gap: 1em;
-}
-*/
+ /*grid-column-gap: 1em;
+ grid-gap:1em;
+}*/
 
-}/* closing media query*/
+}
+/* closing media query*/
   

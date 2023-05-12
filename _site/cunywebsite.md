@@ -5,8 +5,12 @@ tags:
   - cuny
   - info
 ---
-<a href="/keyandlock.html" class="card-link"> <!--this is to talk about the indvidual images sends it to a different page-->
-<article class="program-card">
-<figure><img src="/images/lockandkey1.png" alt="Key and Lock" class="img-responsive"> <figcaption class="captions">Key and Lock</figcaption></figure>
-</article>
-</a>
+<main class="cunywebsite">
+        <article class="program-card">
+          <img src="/images/cunywebsite.png" alt="Cuny Website" class="img-responsive">
+          <div class="card-body">
+            <h4>Cuny Website</h4>
+            <p>This website was a project that illustrated both four year and two year schools in the Cuny system that have majors in web development, animation, and graphic design.</p>
+          </div>
+        </article>
+</main>

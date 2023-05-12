@@ -5,7 +5,8 @@ tags:
   - info
   - designs
 ---
-<a href="/landscape.html" class="card-link"> <!--this is to talk about the indvidual images sends it to a different page-->
+<main class="graphicdesign">
+    <a href="/landscape.html" class="card-link"> <!--this is to talk about the indvidual images sends it to a different page-->
         <article class="program-card-projects">
           <figure><img src="/images/landscape.png" alt="Landscape" class="img-responsive"> <figcaption class="captions">Postcard: Landscape of the Great Wall of China</figcaption> </figure>
         </article>
@@ -30,3 +31,9 @@ tags:
           <figure><img src="/images/Museum Exhibit Poster Loverta Brown 1.png" alt="Museum Exhibit Poster="img-responsive"> <figcaption class="captions">Museum Exhibit Poster</figcaption></figure>
         </article>
       </a>
+      <a href="/designpatterns.html" class="card-link"> <!--this is to talk about the indvidual images sends it to a different page-->
+        <article class="program-card-projects">
+          <figure><img src="/images/symmerty.png" alt="Design Patterns="img-responsive"> <figcaption class="captions">Design Patterns</figcaption></figure>
+        </article>
+      </a>
+</main>
